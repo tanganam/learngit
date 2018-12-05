@@ -4,4 +4,4 @@ hell
 this
 git has a mutable index called stage
 than tha
-git tracks changes
+git tracks changes of files 
