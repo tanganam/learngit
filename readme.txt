@@ -9,7 +9,7 @@ git tracks changes of files
 creating a new branch is quick
 testing for new branch
 testing for new branch 1
-creating a new branch is quick AND simple
+creating a new branch is quick and simple and easy
 testing for no ff
 
 
