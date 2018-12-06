@@ -10,5 +10,6 @@ creating a new branch is quick
 testing for new branch
 testing for new branch 1
 creating a new branch is quick AND simple
+testing for no ff
 
 
